@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning all web related tech<br>💬 Ask me about anything<br>⚡ Fun fact: If plastic is made from oil,<br>and oil is made from fossilized dinosaurs,<br>then plastic dinosaurs are technically made from real dinosaurs.
+🔭 I’m currently working on ~[REDACTED]~ <br>
+🌱 I’m currently learning all web related tech<br>
+💬 Ask me about anything<br>
+⚡ Fun fact: If plastic is made from oil,<br>
+and oil is made from fossilized dinosaurs,<br>
+then plastic dinosaurs are technically made from real dinosaurs.
 
 
 ## 🌐 Socials:
