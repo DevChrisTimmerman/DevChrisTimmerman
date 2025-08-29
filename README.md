@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ~[REDACTED]~ <br>
+🔭 I’m currently working on [Lockit](https://github.com/DevChrisTimmerman/Lockit/tree/master) <br>
 🌱 I’m currently learning all web related tech<br>
 💬 Ask me about anything<br>
 ⚡ Fun fact: If plastic is made from oil,<br>
