@@ -1,11 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on [Lockit](https://github.com/DevChrisTimmerman/Lockit/tree/master) <br>
-🌱 I’m currently learning all web related tech<br>
-💬 Ask me about anything<br>
-⚡ Fun fact: If plastic is made from oil,<br>
-and oil is made from fossilized dinosaurs,<br>
-then plastic dinosaurs are technically made from real dinosaurs.
-
+🌱 I’m currently learning REACT<br>
+💬 Ask me about my game dev background<br>
+⚡ Fun fact: “The first computer ‘bug’ was literally a moth found in a computer in 1947.”
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Chris.Timmy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chris.Timmerman) 
