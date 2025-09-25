@@ -4,7 +4,7 @@
 💬 Ask me about my game dev background<br>
 ⚡ Fun fact: “The first computer ‘bug’ was literally a moth found in a computer in 1947.”
 
-[www.ChrisTimmerman.com](www.ChrisTimmerman.com)
+[www.ChrisTimmerman.com](http://www.ChrisTimmerman.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Chris.Timmy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chris.Timmerman) 
